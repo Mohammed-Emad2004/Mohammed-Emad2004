@@ -24,7 +24,7 @@ My interests mainly focus on:
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Programming Languages
 <p>
@@ -81,14 +81,27 @@ Custom programming language built from scratch using Python and inspired by C++ 
 - Compiler construction concepts
 - Custom commands & language structure
 
+🔗 Repository:  
+https://github.com/Youssef-elkade/Compiler-Construction
+
 ---
 
 ## Egypt Tourism Management Platform
 Tourism management platform developed using Flask and MySQL with multilingual support and CRUD operations.
 
+### Features
+- User authentication system
+- Destinations & place management
+- Gallery & reviews system
+- CRUD operations
+- Multilingual support
+
+🔗 Repository:  
+https://github.com/Mohammed-Emad2004/egypt-tourism-website-flask
+
 ---
 
-## GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emad2004&show_icons=true&theme=radical" />
