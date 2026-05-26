@@ -2,7 +2,7 @@
 
 # Mohammed Emad Hamdy
 
-### Data Analytics • Data Engineering • Machine Learning
+### Data Analytics | Data Engineering | Machine Learning
 
 Third-year Computer Science & Artificial Intelligence Student  
 Assiut National University
