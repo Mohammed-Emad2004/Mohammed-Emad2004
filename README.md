@@ -67,13 +67,18 @@ Interactive dashboard for analyzing sales trends and KPIs using Power BI, SQL, a
 
 ---
 
-### Egypt Tourism Management Platform
-Tourism management platform built using Flask and MySQL with CRUD operations and multilingual support.
+### Motorix Programming Language
+Custom programming language built from scratch using Python, inspired by C++ syntax and designed for automotive enthusiasts.
+
+- Lexical analysis & parsing
+- Syntax validation
+- Compiler construction concepts
+- Custom language structure & commands
 
 ---
 
-### Motorix Car Rental System
-Car rental management system developed to handle vehicle reservations, customer management, and booking operations efficiently.
+### Egypt Tourism Management Platform
+Tourism management platform built using Flask and MySQL with CRUD operations and multilingual support.
 
 ---
 
