@@ -88,16 +88,16 @@ Tourism management platform developed using Flask and MySQL with multilingual su
 
 ---
 
-# GitHub Statistics
 
-<div align="center">
+## GitHub Statistics
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emad2004&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emad2004&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emad2004&layout=compact&theme=tokyonight"/>
-
-</div>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emad2004&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 # Connect With Me
