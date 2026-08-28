@@ -9,7 +9,10 @@
 <img src="https://img.shields.io/github/followers/Mohammed-Emad2004?label=Followers&style=for-the-badge&color=0891b2&labelColor=0a0f1a" alt="followers"/>
 <img src="https://img.shields.io/badge/Location-Egypt-0891b2?style=for-the-badge&labelColor=0a0f1a" alt="location"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+scalable+data+pipelines...;Training+Computer+Vision+models...;Turning+raw+data+into+insights...;Welcome+to+my+profile+%F0%9F%91%8B" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+scalable+Data+Engineering+%26+Analytics...;Developing+cutting-edge+Generative+AI+solutions...;Architecting+robust+Backend+systems+%26+APIs...;Welcome+to+my+profile+%F0%9F%91%8B" alt="typing" />
+</p>
 
 </div>
 
