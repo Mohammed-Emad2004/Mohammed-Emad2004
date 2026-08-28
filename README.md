@@ -41,7 +41,7 @@ data into actionable business insights.
 - Backend AI Systems
 
 **📡 Currently Involved In**
-- 🟢 Digital Egypt Pioneers Initiative **(DEPI)** — Data Engineering Track *(Remote)*
+- 🟢 Digital Egypt Pioneers Initiative **(DEPI)** — Data Engineering Track
 - 🏦 **CIB Summer Internship**
 - 🤖 **FlyRank AI Internship**
 - 💼 **ITIDA** Summer Program
