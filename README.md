@@ -29,13 +29,13 @@ education: >
   Intelligence Student @ Assiut National University
 ```
 
-I'm a **Data Engineer** and **AI Developer** passionate about building
+I'm a **Data Engineer** **& Data Analytic** and **AI Developer** passionate about building
 robust data-driven solutions, scalable **ETL pipelines**, and turning raw
 data into actionable business insights.
 
 **🔭 Current Focus**
 - Advanced Data Engineering
-- Computer Vision
+- Data Analytics
 - Backend AI Systems
 
 **📡 Currently Involved In**
@@ -43,10 +43,6 @@ data into actionable business insights.
 - 🏦 **CIB Summer Internship**
 - 🤖 **FlyRank AI Internship**
 - 💼 **ITIDA** Summer Program
-
-**🏆 Achievement**
-- Winner — **Upper Egypt AI Hackathon**, for building an AI-powered
-  assistive camera system using **YOLOv8 & EasyOCR**.
 
 **💬 Let's Talk**
 Always open to discuss data infrastructure & AI development.
