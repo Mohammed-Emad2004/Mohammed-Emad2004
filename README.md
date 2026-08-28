@@ -181,7 +181,6 @@ A platform showcasing Egypt's tourist destinations with a data-driven Flask back
 <img src="https://raw.githubusercontent.com/Mohammed-Emad2004/Mohammed-Emad2004/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%"/>
 </div>
 
-> ⚡ الأنيميشن ده مش هيظهر أول ما ترفع الملف — لازم تفعّل GitHub Action مرة واحدة (خطوات مرفقة تحت).
 
 <br/>
 
