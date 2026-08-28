@@ -108,10 +108,22 @@ Always open to discuss data infrastructure & AI development.
 <td width="50%" valign="top">
 
 ### ❤️ Heart Disease Prediction ML
-Machine learning system that predicts heart disease risk from patient data.
 
-`Python` `Scikit-learn` `Pandas`
+> An end-to-end clinical machine learning pipeline analyzing patient biometric indicators and cardiovascular markers to classify and predict heart disease risk with high diagnostic recall.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Healthcare_AI-E91E63?style=for-the-badge&logo=theconversation&logoColor=white" alt="Healthcare AI" />
+</p>
+
+#### 🔬 Key Highlights & Pipeline
+* 📊 **Clinical EDA & Preprocessing:** Data cleaning, missing-value handling, outlier detection, and feature scaling across vital patient attributes (resting BP, cholesterol, max heart rate, ST depression, ECG).
+* 🤖 **Model Benchmarking & Tuning:** Trained and evaluated multiple classifiers (Logistic Regression, Random Forest, Support Vector Machines, KNN) using K-Fold Cross-Validation and GridSearchCV.
+* 🎯 **Medical Metric Optimization:** Prioritized **Recall** and **ROC-AUC** scores to minimize False Negatives and enhance early detection sensitivity.
+* 📈 **Feature Importance & Insights:** Extracted top physiological risk predictors to deliver interpretable, data-driven medical insights.
 [![Repo](https://img.shields.io/badge/View-Repository-0891b2?style=for-the-badge&logo=github&logoColor=e0fdff)](https://github.com/Mohammed-Emad2004/heart-disease-prediction-ml)
 
 </td>
@@ -160,10 +172,23 @@ Machine learning system that predicts heart disease risk from patient data.
 </td>
 <td width="50%" valign="top">
 
-### 🕌 Egypt Tourism Website (Flask)
-A platform showcasing Egypt's tourist destinations with a data-driven Flask backend.
+### 🕌 Egypt Tourism Platform
 
-`Flask` `Python` `SQL`
+> A full-stack, data-driven web platform showcasing Egypt's historical landmarks, cultural attractions, and travel itineraries, powered by dynamic SQL querying and modular Flask backend architecture.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+#### 🏛️ Key Highlights & Architecture
+* 🧭 **Dynamic Destination Discovery:** Rich catalog structuring Egyptian heritage sites, museums, and historical landmarks with detailed metadata, images, and geographic tags.
+* 🗄️ **Relational Database Design:** Normalized SQL schema managing destination details, categories, tourist feedback, and itinerary planning with optimized search queries.
+* ⚡ **Flask & Jinja2 Architecture:** Modular backend structure utilizing server-side rendering, secure form handling, and custom error pages.
+* 📱 **Responsive UI & Multi-Filter Search:** Interactive user interface featuring category-based filtering, city-wise navigation, and mobile-responsive layouts.
 
 [![Repo](https://img.shields.io/badge/View-Repository-0891b2?style=for-the-badge&logo=github&logoColor=e0fdff)](https://github.com/Mohammed-Emad2004/egypt-tourism-website-flask)
 
@@ -183,20 +208,18 @@ A platform showcasing Egypt's tourist destinations with a data-driven Flask back
 
 ## 📈 GitHub Statistics
 
-<h3 align="center">📊 GitHub Statistics</h3>
+<div align="center">
 
-<p align="center">
-  <!-- كارت الـ Streak اليومي -->
-  <img src="https://streak-stats.demolab.com/?user=Mohammed-Emad2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emad2004&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Emad2004&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" height="180"/>
 
-<p align="center">
-  <!-- كارت الإحصائيات العامة -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emad2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <!-- كارت أكثر اللغات استخداماً -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emad2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emad2004&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=c9d1d9" height="180"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Emad2004&theme=react-dark&bg_color=0D1117&color=22D3EE&line=0891b2&point=e0fdff&hide_border=true" width="90%"/>
+
+</div>
+
+<br/>
 ## 🐍 Contribution Snake
 
 <div align="center">
