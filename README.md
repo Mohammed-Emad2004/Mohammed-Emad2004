@@ -118,9 +118,21 @@ Machine learning system that predicts heart disease risk from patient data.
 <td width="50%" valign="top">
 
 ### 🗂️ FAT File System Simulator
-A simulator that implements FAT file system logic — allocation tables, file read/write, and storage management.
 
-`C++`
+> A low-level virtual storage simulator replicating **FAT (File Allocation Table)** architecture, cluster chaining, directory hierarchy, and block-level disk I/O operations in C++.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Operating_Systems-2B5B84?style=for-the-badge&logo=linux&logoColor=white" alt="OS" />
+  <img src="https://img.shields.io/badge/Storage_Architecture-333333?style=for-the-badge&logo=databricks&logoColor=white" alt="Storage" />
+  <img src="https://img.shields.io/badge/CLI_Interface-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white" alt="CLI" />
+</p>
+
+#### ⚙️ Key Highlights & Implementation
+* 📑 **FAT Table & Cluster Chaining:** Replicates table lookup, free-cluster discovery, EOF markers, and linked-block allocation mechanics.
+* 📁 **Hierarchical Directory Tree:** Virtual path resolution supporting directory entries, metadata parsing (size, timestamps, attributes), and sub-folder traversal.
+* 💾 **Virtual Disk I/O:** Emulates sector-by-sector read/write operations on a virtual container file without risking host file system integrity.
+* 💻 **Interactive File System Shell:** Custom CLI providing core commands (`format`, `mkdir`, `touch`, `ls`, `read`, `write`, `rm`, and `dump_fat`).
 
 [![Repo](https://img.shields.io/badge/View-Repository-0891b2?style=for-the-badge&logo=github&logoColor=e0fdff)](https://github.com/Mohammed-Emad2004/fat-file-system-simulator)
 
@@ -129,11 +141,20 @@ A simulator that implements FAT file system logic — allocation tables, file re
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Motorix Programming Language
-A custom-built programming language exploring compiler/interpreter design.
+### 🚀 Motorix Programming Language
 
-`C++`
+> **Motorix** is a custom lightweight interpreted programming language and tree-walk interpreter built from scratch.
 
+#### 🛠️ Tech Stack & Concepts
+- **Core Languages:** Python / C++
+- **Architecture:** Lexical Analysis (Lexer) ➔ Abstract Syntax Tree (AST) ➔ Recursive Descent Parser ➔ Evaluator/Runtime Engine
+- **Features:** Scope & Environment Memory Management, Dynamic Type Evaluation, Interactive REPL Shell.
+
+#### 📦 Key Features
+* ⚡ **Custom Tokenizer/Lexer:** High-speed tokenization supporting keywords, identifiers, and multi-character operators.
+* 🌳 **AST Generation:** Constructing syntax trees with proper operator precedence.
+* 💻 **Interactive REPL:** Real-time command-line interface for direct code execution and debugging.
+* 🛑 **Detailed Error Reporting:** Syntax and runtime error tracking with line and column numbers.
 [![Repo](https://img.shields.io/badge/View-Repository-0891b2?style=for-the-badge&logo=github&logoColor=e0fdff)](https://github.com/Mohammed-Emad2004/Motorix)
 
 </td>
@@ -162,18 +183,19 @@ A platform showcasing Egypt's tourist destinations with a data-driven Flask back
 
 ## 📈 GitHub Statistics
 
-<div align="center">
+<h3 align="center">📊 GitHub Statistics</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emad2004&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=c9d1d9" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Emad2004&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" height="180"/>
+<p align="center">
+  <!-- كارت الـ Streak اليومي -->
+  <img src="https://streak-stats.demolab.com/?user=Mohammed-Emad2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emad2004&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=c9d1d9" height="180"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Emad2004&theme=react-dark&bg_color=0D1117&color=22D3EE&line=0891b2&point=e0fdff&hide_border=true" width="90%"/>
-
-</div>
-
-<br/>
+<p align="center">
+  <!-- كارت الإحصائيات العامة -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Emad2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <!-- كارت أكثر اللغات استخداماً -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Emad2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🐍 Contribution Snake
 
@@ -188,7 +210,7 @@ A platform showcasing Egypt's tourist destinations with a data-driven Flask back
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedemadhamdy@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedemadhamdy142@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedemadhamdy)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Emad2004)
 
