@@ -25,7 +25,7 @@
 
 ```yaml
 name: Mohammed Emad Hamdy
-role: Data Engineer | AI Developer
+role: Data Engineer | Data Analysis | Generative AI
 education: >
   Fourth-year Computer Science & Artificial
   Intelligence Student @ Assiut National University
